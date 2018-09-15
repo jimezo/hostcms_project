@@ -1,0 +1,23 @@
+<!ENTITY labelAddress "Адрес доставки">
+<!ENTITY labelShipmentMethod "Способ доставки">
+<!ENTITY labelPaymentMethod "Форма оплаты">
+<!ENTITY labelOrderConfirmation "Заказ оформлен">
+<!ENTITY labelTitle "Ваш заказ оформлен">
+<!ENTITY labelLine1 "По выбранным Вами условиям доставка не возможна, заказ будет оформлен без доставки.">
+<!ENTITY labelOrderedItems "Заказанные товары">
+<!ENTITY labelItemName "Наименование">
+<!ENTITY labelMarking "Артикул">
+<!ENTITY labelQuantity "Количество">
+<!ENTITY labelPrice "Цена">
+<!ENTITY labelSum "Сумма">
+<!ENTITY labelTotal "Итого:">
+<!ENTITY labelNone "Заказанных товаров нет.">
+<!ENTITY labelName "ФИО:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelPhone "Телефон:">
+<!ENTITY labelFax "Факс:">
+<!ENTITY labelDeliveryAddress "Адрес доставки:">
+<!ENTITY labelDistrict "район">
+<!ENTITY labelDelivery "Тип доставки:">
+<!ENTITY labelPaymentSystem "Способ оплаты:">
+<!ENTITY labelData "Данные доставки">

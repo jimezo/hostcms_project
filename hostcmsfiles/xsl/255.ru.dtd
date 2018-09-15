@@ -1,0 +1,11 @@
+<!ENTITY labelTitle "Заполнена форма №">
+<!ENTITY labelHostcms "Система управления сайтом HostCMS">
+<!ENTITY labelIp "IP-адрес:">
+<!ENTITY labelDate "Дата отправки:">
+<!ENTITY labelService "Рекламный сервис:">
+<!ENTITY labelCampaign "Название рекламной кампании:">
+<!ENTITY labelAd "Рекламное объявление:">
+<!ENTITY labelSource "Место размещения:">
+<!ENTITY labelMedium "Средство маркетинга:">
+<!ENTITY labelContent "Дополнительная информация:">
+<!ENTITY labelTerm "Ключевые слова:">

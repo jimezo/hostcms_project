@@ -1,0 +1,16 @@
+<!ENTITY labelUser "User">
+<!ENTITY labelAccount "My Account">
+<!ENTITY labelLogin "Login:">
+<!ENTITY labelPassword "Password:">
+<!ENTITY labelRemember "Remember Me">
+<!ENTITY labelLoginButton "Sign in">
+<!ENTITY labelLine1 "First time here?">
+<!ENTITY labelRegister "Sign up now!">
+<!ENTITY labelLine2 "Forgot your password? We can help">
+<!ENTITY labelRestore "restore.">
+<!ENTITY labelNewAccount "Don't have an account?">
+<!ENTITY labelNewAccountLine1 "Registering for your account is quick and easy.">
+<!ENTITY labelNewAccountAdvantage1 "Orders history.">
+<!ENTITY labelNewAccountAdvantage2 "Customer Support.">
+<!ENTITY labelNewAccountAdvantage3 "Bonuses.">
+<!ENTITY labelLoginWithSocialAccount "Login with your social account">

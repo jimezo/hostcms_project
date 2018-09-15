@@ -1,0 +1,8 @@
+<!ENTITY labelTitle "Сравнение товаров">
+<!ENTITY labelName "Название">
+<!ENTITY labelPhoto "Фото">
+<!ENTITY labelPrice "Цена">
+<!ENTITY labelWeight "Вес">
+<!ENTITY labelProducer "Производитель">
+<!ENTITY labelDescription "Описание">
+<!ENTITY labelCompare "Сравнить">

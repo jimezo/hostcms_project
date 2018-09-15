@@ -1,0 +1,33 @@
+<!ENTITY labelLine1 "Быстрая регистрация">
+<!ENTITY labelLine2 "Какие преимущества дает регистрация на сайте?">
+<!ENTITY labelLine3 "Вы получаете возможность оформлять заказы прямо на сайте.">
+<!ENTITY labelLine4 "Вы будете получать информацию о специальных акциях магазина, доступных только зарегистрированным пользователям.">
+<!ENTITY labelForm "Заполнить форму регистрации">
+<!ENTITY labelData "Анкетные данные">
+<!ENTITY labelNewUser "Регистрация нового пользователя">
+<!ENTITY labelLine5 "Обратите внимание, введенные контактные данные будут доступны на странице пользователя неограниченному кругу лиц.">
+<!ENTITY labelRequired "Обязательные поля отмечены *.">
+<!ENTITY labelLogin "Login">
+<!ENTITY labelPassword "Password">
+<!ENTITY labelPassword2 "Повтор пароля">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelName "Name">
+<!ENTITY labelSurname "Surname">
+<!ENTITY labelPatronymic "Patronymic">
+<!ENTITY labelCompany "Company">
+<!ENTITY labelPhone "Phone">
+<!ENTITY labelFax "Fax">
+<!ENTITY labelSite "Site">
+<!ENTITY labelICQ "ICQ">
+<!ENTITY labelCountry "Country">
+<!ENTITY labelPostcode "Postcode">
+<!ENTITY labelCity "City">
+<!ENTITY labelAddress "Address">
+<!ENTITY labelMaillist "Maillists">
+<!ENTITY labelUpdateCaptcha "Refresh">
+<!ENTITY labelCaptchaId "Captcha">
+<!ENTITY labelChange "Change">
+<!ENTITY labelRegister "Зарегистрироваться">
+<!ENTITY labelText "Text">
+<!ENTITY labelSubscribe "подписаться">
+<!ENTITY labelDeleteAlert "Вы уверены, что хотите удалить?">

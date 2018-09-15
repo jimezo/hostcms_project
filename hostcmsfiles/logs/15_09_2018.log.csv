@@ -1,0 +1,95 @@
+"2018-09-15 13:58:31",undefined,"Database open connection error 1045: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+36 modules\core\exception.php
+87 modules\core\database\pdo.php
+574 install\index.php",0,-,http://cmsproject/install/index.php,127.0.0.1
+"2018-09-15 13:58:49",undefined,"Database open connection error 1045: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+36 modules\core\exception.php
+87 modules\core\database\pdo.php
+574 install\index.php",0,-,http://cmsproject/install/index.php,127.0.0.1
+"2018-09-15 14:00:05",undefined,"Database open connection error 1045: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: YES)
+36 modules\core\exception.php
+87 modules\core\database\pdo.php
+574 install\index.php",0,-,http://cmsproject/install/index.php,127.0.0.1
+"2018-09-15 14:02:12",undefined,"Database open connection error 1045: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO)
+36 modules\core\exception.php
+87 modules\core\database\pdo.php
+574 install\index.php",0,-,http://cmsproject/install/index.php,127.0.0.1
+"2018-09-15 14:17:05",admin,"Вход в систему управления",4,-,http://cmsproject/admin/index.php,127.0.0.1
+"2018-09-15 14:17:09",admin,"Доступ к модулю ""user"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/user/index.php?loadUserAvatar=19,127.0.0.1
+"2018-09-15 14:17:10",admin,"Доступ к модулю ""calendar"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/calendar/index.php?loadEvents,127.0.0.1
+"2018-09-15 14:18:03",admin,"Доступ к модулю ""market"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/market/index.php,127.0.0.1
+"2018-09-15 14:19:13",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php,127.0.0.1
+"2018-09-15 14:19:36",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1
+"2018-09-15 14:19:40",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php?template_dir_id=1,127.0.0.1
+"2018-09-15 14:19:53",admin,"Доступ к модулю ""xsl"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/xsl/index.php,127.0.0.1
+"2018-09-15 14:20:16",admin,"Доступ к модулю ""calendar"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/calendar/index.php?loadEvents,127.0.0.1
+"2018-09-15 14:21:14",admin,"Доступ к модулю ""informationsystem"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/informationsystem/index.php,127.0.0.1
+"2018-09-15 14:22:16",admin,"Доступ к модулю ""shop"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/shop/index.php,127.0.0.1
+"2018-09-15 14:22:35",admin,"Доступ к модулю ""document"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/document/index.php,127.0.0.1
+"2018-09-15 14:22:40",admin,"Доступ к модулю ""document"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/document/index.php?document_dir_id=3,127.0.0.1
+"2018-09-15 14:22:50",admin,"Доступ к модулю ""tag"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/tag/index.php,127.0.0.1
+"2018-09-15 14:23:37",admin,"Доступ к модулю ""document"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/document/index.php,127.0.0.1
+"2018-09-15 14:23:39",admin,"Доступ к модулю ""document"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/document/index.php,127.0.0.1
+"2018-09-15 14:23:53",admin,"Доступ к модулю ""revision"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/revision/index.php,127.0.0.1
+"2018-09-15 14:23:59",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php,127.0.0.1
+"2018-09-15 14:24:03",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1
+"2018-09-15 14:29:19",admin,"Доступ к модулю ""trash"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/trash/index.php,127.0.0.1
+"2018-09-15 14:29:28",admin,"Доступ к модулю ""update"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/update/index.php,127.0.0.1
+"2018-09-15 14:40:29",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1
+"2018-09-15 14:40:38",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1
+"2018-09-15 14:45:06",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php?hostcms[checked][1][0]=1,127.0.0.1
+"2018-09-15 14:45:18",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php,127.0.0.1
+"2018-09-15 14:45:53",admin,"Доступ к модулю ""document"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/document/index.php,127.0.0.1
+"2018-09-15 14:45:57",admin,"Доступ к модулю ""document"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/document/index.php,127.0.0.1
+"2018-09-15 14:46:46",admin,"Доступ к модулю ""document"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/document/index.php?hostcms[checked][1][0]=1,127.0.0.1
+"2018-09-15 14:46:46",admin,"Выполнено действие ""Редактировать"", формы ""Страницы""",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/document/index.php?hostcms[checked][1][0]=1,127.0.0.1
+"2018-09-15 14:47:09",admin,"Доступ к модулю ""lib"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/lib/index.php,127.0.0.1
+"2018-09-15 14:47:15",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php,127.0.0.1
+"2018-09-15 14:47:27",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php,127.0.0.1
+"2018-09-15 14:47:31",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php,127.0.0.1
+"2018-09-15 14:47:32",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php?lib_id=0,127.0.0.1
+"2018-09-15 14:48:38",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php?hostcms[checked][0][88]=1,127.0.0.1
+"2018-09-15 14:48:38",admin,"Query error 22007: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '0000-00-00 00:00:00' for column 'value' at row 1. Query: UPDATE `property_value_datetimes` SET `value` = '0000-00-00 00:00:00' WHERE  `id` = '2'
+36 modules\core\exception.php
+569 modules\core\database\pdo.php
+80 modules\core\querybuilder\statement.php
+1753 modules\core\orm.php
+669 modules\core\entity.php
+1782 modules\core\orm.php
+1134 modules\property\controller\tab.php
+595 modules\structure\controller\edit.php
+720 modules\admin\form\action\controller\type\edit.php
+1165 modules\admin\form\controller.php
+358 admin\structure\index.php",4,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php?hostcms[checked][0][88]=1,127.0.0.1
+"2018-09-15 14:49:04",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php,127.0.0.1
+"2018-09-15 14:49:05",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php?lib_id=0,127.0.0.1
+"2018-09-15 14:49:15",admin,"Доступ к модулю ""structure"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php?hostcms[checked][0][88]=1,127.0.0.1
+"2018-09-15 14:49:15",admin,"Query error 22007: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '0000-00-00 00:00:00' for column 'value' at row 1. Query: UPDATE `property_value_datetimes` SET `value` = '0000-00-00 00:00:00' WHERE  `id` = '2'
+36 modules\core\exception.php
+569 modules\core\database\pdo.php
+80 modules\core\querybuilder\statement.php
+1753 modules\core\orm.php
+669 modules\core\entity.php
+1782 modules\core\orm.php
+1134 modules\property\controller\tab.php
+595 modules\structure\controller\edit.php
+720 modules\admin\form\action\controller\type\edit.php
+1165 modules\admin\form\controller.php
+358 admin\structure\index.php",4,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/structure/index.php?hostcms[checked][0][88]=1,127.0.0.1
+"2018-09-15 14:49:22",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1
+"2018-09-15 14:49:26",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php?template_dir_id=0&template_id=21,127.0.0.1
+"2018-09-15 14:49:29",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1
+"2018-09-15 14:49:32",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1
+"2018-09-15 14:52:22",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php?hostcms[checked][1][21]=1,127.0.0.1
+"2018-09-15 14:52:22",admin,"Выполнено действие ""Редактировать"", формы ""Макеты""",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php?hostcms[checked][1][21]=1,127.0.0.1
+"2018-09-15 14:53:25",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1
+"2018-09-15 14:56:42",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php?hostcms[checked][1][21]=1,127.0.0.1
+"2018-09-15 14:56:42",admin,"Выполнено действие ""Редактировать"", формы ""Макеты""",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php?hostcms[checked][1][21]=1,127.0.0.1
+"2018-09-15 14:56:58",admin,"Выход из системы управления",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/logout.php,127.0.0.1
+"2018-09-15 17:30:17",admin,"Вход в систему управления",4,-,http://cmsproject/admin/index.php,127.0.0.1
+"2018-09-15 17:30:20",admin,"Доступ к модулю ""user"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/user/index.php?loadUserAvatar=19,127.0.0.1
+"2018-09-15 17:30:22",admin,"Доступ к модулю ""calendar"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/calendar/index.php?loadEvents,127.0.0.1
+"2018-09-15 17:30:57",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1
+"2018-09-15 17:31:00",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php?template_dir_id=0&template_id=21,127.0.0.1
+"2018-09-15 17:31:03",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1
+"2018-09-15 17:31:06",admin,"Доступ к модулю ""template"" разрешен",1,"Демонстрационный сайт 15.09.2018 14:13:34",http://cmsproject/admin/template/index.php,127.0.0.1

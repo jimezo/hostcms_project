@@ -1,0 +1,11 @@
+<!ENTITY labelTitle "Completed Form ">
+<!ENTITY labelHostcms "Content Management System HostCMS">
+<!ENTITY labelIp "IP:">
+<!ENTITY labelDate "Date:">
+<!ENTITY labelService "Service:">
+<!ENTITY labelCampaign "Adv Company Name:">
+<!ENTITY labelAd "Ad:">
+<!ENTITY labelSource "Source:">
+<!ENTITY labelMedium "Medium:">
+<!ENTITY labelContent "Content:">
+<!ENTITY labelTerm "Term:">

@@ -1,0 +1,36 @@
+<!ENTITY labelProviderName "Поставщик">
+<!ENTITY labelTinKpp "ИНН/КПП">
+<!ENTITY labelPsrn "ОГРН">
+<!ENTITY labelAddress "Адрес">
+<!ENTITY labelPhone "Телефон">
+<!ENTITY labelFax "Факс">
+<!ENTITY labelEmail "E-mail">
+<!ENTITY labelSite "Сайт">
+<!ENTITY labelSamplePaymentOrder "Образец заполнения платежного поручения">
+<!ENTITY labelTin "ИНН">
+<!ENTITY labelKpp "КПП">
+<!ENTITY labelRecipient "Получатель">
+<!ENTITY labelAccountNumber "Сч. №">
+<!ENTITY labelPayeesBank "Банк получателя">
+<!ENTITY labelBic "БИК">
+<!ENTITY labelCorrespondentAccount "Кор/Сч. №">
+<!ENTITY labelMessageTitle "Уважаемый Клиент!">
+<!ENTITY labelMessageText "Просим оплатить этот счет в течение 5 дней с даты выставления. Вы можете сделать это в любом банковском учреждении РФ. Не забудьте указать номер счета в платежном документе.">
+<!ENTITY labelDateFrom "от">
+<!ENTITY labelCustomer "Покупатель">
+<!ENTITY labelDistrict "район">
+<!ENTITY labelPhoneFax "Тел./факс">
+<!ENTITY labelOrderItemName "Наименование">
+<!ENTITY labelOrderItemCount "Кол-во">
+<!ENTITY labelOrderMeasure "Ед. изм.">
+<!ENTITY labelOrderItemPrice "Цена">
+<!ENTITY labelOrderValueAddedTaxRate "Ставка НДС">
+<!ENTITY labelOrderValueAddedTax "НДС">
+<!ENTITY labelOrderAmount "Сумма">
+<!ENTITY labelOrderIncludingVat "В том числе НДС">
+<!ENTITY labelOrderWithoutVat "Без НДС">
+<!ENTITY labelOrderTotalAmount "Всего к оплате">
+<!ENTITY labelOrderDirector "Руководитель предприятия">
+<!ENTITY labelOrderChiefAccountant "Главный бухгалтер">
+<!ENTITY labelOrderPlaceStamp "М.П.">
+<!ENTITY labelOrderLine1 "Счет действителен в течение 5 банковских дней.">

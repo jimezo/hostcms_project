@@ -1,0 +1,8 @@
+<!ENTITY labelTitle "Comparing item">
+<!ENTITY labelName "Name">
+<!ENTITY labelPhoto "Photo">
+<!ENTITY labelPrice "Price">
+<!ENTITY labelWeight "Weight">
+<!ENTITY labelProducer "Producer">
+<!ENTITY labelDescription "Description">
+<!ENTITY labelCompare "Compare">

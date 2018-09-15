@@ -1,0 +1,35 @@
+<!ENTITY labelProviderName "Provider">
+<!ENTITY labelTinKpp "KPP">
+<!ENTITY labelPsrn "PSRN">
+<!ENTITY labelAddress "Address">
+<!ENTITY labelPhone "Phone">
+<!ENTITY labelFax "Fax">
+<!ENTITY labelEmail "E-mail">
+<!ENTITY labelSite "Site">
+<!ENTITY labelSamplePaymentOrder "A sample of the payment order">
+<!ENTITY labelTin "TIN">
+<!ENTITY labelKpp "Kpp">
+<!ENTITY labelRecipient "Recipient">
+<!ENTITY labelAccountNumber "Account number">
+<!ENTITY labelPayeesBank "Payee's bank">
+<!ENTITY labelBic "Bank Identification Code">
+<!ENTITY labelCorrespondentAccount "Correspondent account">
+<!ENTITY labelMessageTitle "Dear Customer!">
+<!ENTITY labelMessageText "Просим оплатить этот счет в течение 5 дней с даты выставления. Вы можете сделать это в любом банковском учреждении РФ. Не забудьте указать номер счета в платежном документе.">
+<!ENTITY labelDateFrom "from">
+<!ENTITY labelCustomer "Customer">
+<!ENTITY labelDistrict "district">
+<!ENTITY labelPhoneFax "Phone/fax">
+<!ENTITY labelOrderItemName "Name">
+<!ENTITY labelOrderItemCount "Count">
+<!ENTITY labelOrderMeasure "Measure">
+<!ENTITY labelOrderValueAddedTaxRate "Value-added tax rate">
+<!ENTITY labelOrderValueAddedTax "VAT">
+<!ENTITY labelOrderAmount "Amount">
+<!ENTITY labelOrderIncludingVat "Including VAT">
+<!ENTITY labelOrderWithoutVat "Without VAT">
+<!ENTITY labelOrderTotalAmount "Total amount">
+<!ENTITY labelOrderDirector "Director">
+<!ENTITY labelOrderChiefAccountant "Chief Accountant">
+<!ENTITY labelOrderPlaceStamp "М.П.">
+<!ENTITY labelOrderLine1 "Счет действителен в течение 5 банковских дней.">

@@ -1,0 +1,16 @@
+<!ENTITY labelUser "Пользователь">
+<!ENTITY labelAccount "Личный кабинет">
+<!ENTITY labelLogin "Пользователь:">
+<!ENTITY labelPassword "Пароль:">
+<!ENTITY labelRemember "Запомнить меня на сайте.">
+<!ENTITY labelLoginButton "Войти">
+<!ENTITY labelLine1 "Первый раз на сайте?">
+<!ENTITY labelRegister "Зарегистрируйтесь!">
+<!ENTITY labelLine2 "Забыли пароль? Мы можем его">
+<!ENTITY labelRestore "восстановить.">
+<!ENTITY labelNewAccount "Регистрация нового пользователя">
+<!ENTITY labelNewAccountLine1 "Быстрая и простая регистрация:">
+<!ENTITY labelNewAccountAdvantage1 "История заказов.">
+<!ENTITY labelNewAccountAdvantage2 "Обращения в службу поддержки.">
+<!ENTITY labelNewAccountAdvantage3 "Бонусные баллы.">
+<!ENTITY labelLoginWithSocialAccount "Войти через социальную сеть">

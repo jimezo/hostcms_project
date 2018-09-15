@@ -1,0 +1,22 @@
+<!ENTITY labelAddress "Address">
+<!ENTITY labelShipmentMethod "Shipment Method">
+<!ENTITY labelPaymentMethod "Payment Method">
+<!ENTITY labelOrderConfirmation "Order Confirmation">
+<!ENTITY labelTitle "Your order is complete">
+<!ENTITY labelLine1 "We haven't found a suitable delivery. Order will be create without delivery.">
+<!ENTITY labelOrderedItems "Ordered goods">
+<!ENTITY labelItemName "Name">
+<!ENTITY labelMarking "Marking">
+<!ENTITY labelQuantity "Quantity">
+<!ENTITY labelPrice "Price">
+<!ENTITY labelSum "Sum">
+<!ENTITY labelTotal "Total:">
+<!ENTITY labelNone "List of ordered goods is empty.">
+<!ENTITY labelName "Name:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelPhone "Phone:">
+<!ENTITY labelFax "Fax:">
+<!ENTITY labelDeliveryAddress "Delivery address:">
+<!ENTITY labelDistrict "district">
+<!ENTITY labelDelivery "Delivery:">
+<!ENTITY labelPaymentSystem "Payment system:">
